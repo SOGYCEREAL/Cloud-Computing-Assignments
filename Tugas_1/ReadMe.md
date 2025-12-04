@@ -4,7 +4,7 @@ Tugas 1
 
 | Nama | NRP |
 | --- | --- |
-|  Login  |  5025221227  |
+|  Gavrila Nirwasita  |  5025221227  |
 
 ---
 
