@@ -15,6 +15,6 @@ Tugas 1
 |  Case 3  |  Case 3 ini menjalankan databae  |
 |  Case 4  |  Case 4 ini menjalankan kontainer untuk mengambil jokes dari api Chuck Norris dan menyimpannya ke dalam folder. Juga menjalankan webserver untuk menyajikan data di sebuah website supaya file jokes dapat diakses melalui web  | 
 
-gambar arsitektur
+Gambar Arsitektur
 ---
 <img width="666" height="590" alt="image" src="https://github.com/user-attachments/assets/04b2eea4-ce5d-43ec-ae42-c45cc36640e9" />
