@@ -15,3 +15,6 @@ Tugas 2
 |  Case 3  |  Case 3 ini menjalankan stack aplikasi WordPress lengkap yang terdiri dari database MySQL, aplikasi WordPress, PHPMyAdmin untuk manajemen database, dan Nginx sebagai reverse proxy yang menangani SSL. |
 |  Case 4  |  Case 4 ini menjalankan lingkungan pengembangan khusus (Custom LAMP Stack) di mana image aplikasinya dibangun manual (build) dari Dockerfile untuk menjalankan Apache & PHP, serta dilengkapi dengan database MySQL dan PHPMyAdmin.  |
 |  Case 5  |  Case 5 ini menjalankan arsitektur Load Balancer menggunakan Nginx yang bertugas membagi lalu lintas (traffic) masuk secara merata ke dua server backend yang berbeda (web1 dan web2).  |
+
+---
+<img width="971" height="986" alt="image" src="https://github.com/user-attachments/assets/03335f2d-58f3-4aca-a8f4-aec0140730f7" />
